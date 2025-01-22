@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-### Eat, sleep, code, repeat. 😆
+### Eat, sleep, code, repeat. LOL
+### 🍽️ 🛌 👨‍💻 🔁 😆
+---
 
 ## 🧑‍💻 Tech Stack:
 
 | [![My Skills](https://skillicons.dev/icons?i=java,php,js,ts)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=sqlite,firebase,postgres,mongodb)](https://skillicons.dev)  |
 |----------------------------------|-----------------------------------|
-| [![My Skills](https://skillicons.dev/icons?i=androidstudio,laravel,express,react)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,figma,tailwind,vscode)](https://skillicons.dev)  |
+| [![My Skills](https://skillicons.dev/icons?i=androidstudio,laravel,express,react)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,docker,figma,tailwind)](https://skillicons.dev)  |
 
 ## ⚡️ GitHub Stats:
 ![AnhDat's github stats](https://github-readme-stats.vercel.app/api?username=ngdathd&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
